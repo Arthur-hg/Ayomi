@@ -1,0 +1,10 @@
+# Packages
+__pycache__
+
+# Unit test / coverage reports
+test_results
+.coverage
+.tox
+nosetests.xml
+
+.python-version
