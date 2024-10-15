@@ -1,0 +1,9 @@
+fastapi==0.115.2
+gunicorn==20.1.0
+numpy==1.26.4
+psycopg2==2.9.9
+requests==2.32.3
+SQLAlchemy==1.4.51
+teleport==0.4.0
+jinja2==3.1.4
+uvicorn==0.31.1
